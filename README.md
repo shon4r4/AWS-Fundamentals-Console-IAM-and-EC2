@@ -67,5 +67,5 @@ Custom AMIs are powerful tools for organizations to enforce security baselines a
 ---
 
 ## 4. Appendix & Resources
-**Command Reference:** For a quick-reference list of all terminal commands used in this lab, see [commands.txt](./scripts/commands.txtcommands.txt). 
+**Command Reference:** For a quick-reference list of all terminal commands used in this lab, see [commands.txt](./scripts/commands.txt). 
 **EC2 Details:** Detailed instance summaries, including attached EBS volumes and security group rules, are documented in the appendix of the full lab report. 
