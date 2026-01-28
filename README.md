@@ -62,3 +62,10 @@
 
 ## 3. Conclusion
 [cite_start]Custom AMIs are powerful tools for organizations to enforce security baselines and standardize developer environments[cite: 84, 85]. [cite_start]By pre-configuring security agents, patches, and access controls within an image, an organization significantly reduces risk in dynamic environments[cite: 86, 87].
+
+
+---
+
+## 4. Appendix & Resources
+* [cite_start]**Command Reference:** For a quick-reference list of all terminal commands used in this lab, see [commands.txt](./commands.txt). [cite: 56, 57, 58, 59, 62]
+* [cite_start]**EC2 Details:** Detailed instance summaries, including attached EBS volumes and security group rules, are documented in the appendix of the full lab report. [cite: 95, 96, 97, 98]

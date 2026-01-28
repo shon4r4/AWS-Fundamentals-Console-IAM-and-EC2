@@ -1,0 +1,17 @@
+# AWS EC2 Configuration Commands - Lab 1
+
+# 1. Elevate to root privileges
+[cite_start]sudo -i [cite: 57]
+
+# 2. Update package repositories
+[cite_start]apt-get update [cite: 58]
+
+# 3. Install Apache2 Web Server
+[cite_start]apt-get install apache2 [cite: 59]
+
+# 4. Check mounted file systems and types
+[cite_start]df -Th [cite: 52]
+
+# 5. Edit the web server landing page
+[cite_start]cd /var/www/html [cite: 62]
+[cite_start]vim index.html [cite: 62]
